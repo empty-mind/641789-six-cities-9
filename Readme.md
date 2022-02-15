@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Pavel Kuznetsov](https://up.htmlacademy.ru/react/9/user/641789).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Волков](https://htmlacademy.ru/profile/id1508839).
 
 ---
 
